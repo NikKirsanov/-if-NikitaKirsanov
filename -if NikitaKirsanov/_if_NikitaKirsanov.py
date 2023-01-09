@@ -2,6 +2,23 @@ from math import *
 from random import * 
 
 
+while True:
+
+     print("Arvuta peast! ...4*100-55")
+
+ 
+
+
+
+
+
+
+
+
+
+print()
+
+
 print("Arvuta peast! ...4*100-55")
 
 o_vastus=4*100-55
